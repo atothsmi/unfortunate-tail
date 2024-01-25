@@ -1,0 +1,46 @@
+div {
+  margin: 10px;
+}
+
+#storyContainer {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#titleContainer {
+  font-family: 'Gluten', cursive;;
+  font-size: 40px;
+  text-align: center;
+}
+
+#captionContainer {
+  font-family: 'Dongle', sans-serif;
+  font-size: 30px
+}
+
+#imageContainer img {
+  width: 100%;
+  border-radius: 10px;
+  animation-name: fadeIn;
+  animation-duration: 1s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#choicesContainer {
+  font-family: 'Dongle', sans-serif;
+  font-size: 25px
+}
+
+#toolsContainer {
+  visibility: hidden;
+  opacity: 20%;
+}
