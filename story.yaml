@@ -1,0 +1,237 @@
+Title: The Unfortunate Tail of Fancy the Cat
+Start: One
+
+Scenes:
+  One:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FOne.jpeg?v=1636092228974
+    cap: |
+     There are many stories where the protagonist lives happily ever after, 
+     but this is the story of Fancy the Cat.
+     Sorry to say, but it always ended horribly.
+    opts:
+     - text: How horribly?
+       point: Two
+     - text: Why did it always go horribly?
+       point: Three
+  Two:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FTwo.jpeg?v=1636092421520
+    cap: |
+     He was doomed to die, just like the rest of us, but he was to die sad and alone.
+     He pushed everyone in his life away.
+    opts:
+     - text: Even his own mother?
+       point: Five
+     - text: Even his girlfriend
+       point: Six
+     - text: Even his best friend?
+       point: Seven
+  Three:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FThree.jpeg?v=1636092535297
+    cap: |
+      He was a workaholic. He never chose his family or friends over his work. 
+       
+      He always thought, "Later, after I end this call".
+      Or "Later, after I finish this project".
+      Or "Later, after I get this promotion".
+    opts:
+     - text: And later never came?
+       point: Eight
+     - text: And he always thought there would be more time?
+       point: Nine
+  Four:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FFour.jpeg?v=1636093243039
+    cap: |
+      I'm sorry to say this was how it always went.
+    opts:
+     - text: But what if he remembered?
+       point: Twenty
+  Five:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FFive.jpeg?v=1636091901841
+    cap: |
+       Yes, even his own mother. They grew up poor, but at least they had each other.
+       She gave up everything so he could go to his top choice college,
+       University of Catlinoleum, Cata Cruz.
+       But one he got there, he never called home, not even on Meowther's Day.
+       He always said he was too busy.
+    opts:
+     - text: What happened to her?
+       point: Ten
+     - text: "Why didn't he call?"
+       point: Eleven
+  Six:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FSix.jpeg?v=1636091648213
+    cap: |
+        Yest, even his girlfriend. They met their senior years of college, April 10th.
+        He fell madly in love, but never took the time to show it.
+        In the threee years they dated, he never remembered one of their anniversaries.
+        She left, but he barely noticed.
+    opts:
+     - text: What happened to her?
+       point: Twelve
+     - text: "Why didn't he remember?"
+       point: Thirteen
+  Seven:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FSeven.jpeg?v=1636091039933
+    cap: |
+       Yes, even his best friend. They grew up together and were closer than two peas in a pod.
+       Fanncy felt he had to do anything he could to live up to his name,
+       but his friend just wanted to enjoy life. 
+       Once Fancy moved away, he never contacted his friend again.
+    opts:
+     - text: "What was his friend's name?"
+       point: Fourteen
+     - text: What happened to his best friend?
+       point: Fifteen
+  Eight:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FEight.jpeg?v=1636092494344
+    cap: Later came too late.
+    opts:
+     - text: What happened?
+       point: Sixteen
+     - text: He died?
+       point: Seventeen
+  Nine:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FNine.jpeg?v=1636092673319
+    cap: |
+        He never had enough money or very many friends, but he always thought he had more than
+        enough time. He realized too late that time was the only thing he couldn't get more of.
+    opts: []
+  Ten:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FFive.jpeg?v=1636091901841
+    cap: |
+        Eventually, she stopped calling him. She moved on with her life, she found solace in
+        her friends. She found a life outside of being a mother. She had to.
+    opts:
+     - text: What happened to Fancy?
+       point: Nine
+  Eleven:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FEight.jpeg?v=1636092494344
+    cap: |
+      He wanted her to be proud of him. He told himself that he would call when he had done enough
+      to make her proud. But it was never enough.
+    opts:
+     - text: Oh.
+       point: Nine
+  Twelve:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FSix.jpeg?v=1636091648213
+    cap: |
+      She became successful in her own right. She found other people to love as people do.
+      She was happy.
+    opts:
+     - text: What happened to Fancy?
+       point: Nine
+  Thirteen:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FEight.jpeg?v=1636092494344
+    cap: |
+      He thought that she would stay until he was ready for her. He was selfish in that way.
+    opts:
+     - text: What happened to Fancy?
+       point: Nine
+  Fourteen:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FFourteen.jpeg?v=1636091035355
+    cap: Brenard, why do you ask?
+    opts:
+     - text: Oh, no reason.
+       point: Seven
+  Fifteen:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FSeven.jpeg?v=1636091039933
+    cap: |
+      His best friend found other best friends. He moved on. He had his own story where Fancy
+      was merely a forgotten side character from his childhood.
+    opts:
+     - text: Oh.
+       point: Nine
+  Sixteen:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FSixteen.jpeg?v=1636094821646
+    cap: |
+      He died alone and regretful. He had worked all his life to accrue great wealth.
+      In the end though, he had no one left to share it with.
+    opts:
+     - text: The End
+       point: Eighteen
+  Seventeen:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FNine.jpeg?v=1636092673319
+    cap: |
+      He was diagnosed with cancer at 43. It was treatable, but he decided not to treat it,
+      lest the treatments gobble all the wealth he had worked his whole life to get. After all,
+      There was nothing left for him to live for. 
+      
+      In his final moments, no one came to comfort him.
+    opts:
+     - text: The End
+       point: Eighteen
+     - text: "No, that can't be the end."
+       point: Nineteen
+  Eighteen:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FEighteen.jpeg?v=1636094428978
+    cap: It never went any other way.
+    opts: []
+  Nineteen:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FOne.jpeg?v=1636092228974
+    cap: |
+     There are many stories where the protagonist lives happily ever after, 
+     but this is the story of Fancy the Cat.
+     Sorry to say, but it always ended horribly.
+    opts:
+     - text: How horribly?
+       point: Two
+     - text: Why did it always go horribly?
+       point: Three
+     - text: No, it didn't.
+       point: Four
+  Twenty:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FFive.jpeg?v=1636091901841
+    cap: |
+     What was there to remember?
+    opts:
+     - text: What if he remembered to call his mother on Meowther's day?
+       point: Twenty-Two
+     - text: What if he remembered to call his mother on Cather's day?
+       point: Twenty-One
+  Twenty-One:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FNine.jpeg?v=1636092673319
+    cap: |
+     You couldn't even remember correctly, how could you expect him to ever remember?
+    opts: []
+  Twenty-Two:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FSeven.jpeg?v=1636091039933
+    cap: |
+     So maybe he remembers his mother, but his best friend?
+    opts:
+     - text: What if he remembered to visit Benjamin?
+       point: Twenty-One
+     - text: What if he remembered to visit Brenard?
+       point: Twenty-Three
+  Twenty-Three:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FSix.jpeg?v=1636091648213
+    cap: |
+     So maybe he remembers them, but his girlfriend?
+    opts:
+     - text: What if he remembered to celebrate on June 21st?
+       point: Twenty-One
+     - text: What if he remembered to celebrate on April 10th?
+       point: Twenty-Four
+  Twenty-Four:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FTwenty-Four.jpeg?v=1636094027200
+    cap: |
+     But he always thought-
+    opts:
+     - text: He had more time?
+       point: Twenty-Five
+     - text: He had more opportunities?
+       point: Twenty-One
+  Twenty-Five:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FEight.jpeg?v=1636092494344
+    cap: |
+     Okay so maybe he could have thought all that differently, but he didn't. He gave up on
+     his life before he had a chance to change.
+    opts:
+     - text: But if he didn't give up?
+       point: Twenty-Six
+  Twenty-Six:
+    url: https://cdn.glitch.me/4c7e8cde-1565-4bae-bdd9-0101901e0473%2FTwenty-Six.jpeg?v=1636095157022
+    cap: |
+     Well then, if he had remembered all that and didn't give up. Maybe then he could have 
+     died happily.
+    opts: []
+    
